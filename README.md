@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE 👋👋👋
+  ### WELCOME TO MY PAGE 👋👋👋
 My name is Huy Tran. I am a Junior in Software Engineering at San Jose State University. I am interested in building the website and would like to be a full-stack developer.<br>
 ## 📫 How to reach me: 
 
@@ -21,7 +21,7 @@ My name is Huy Tran. I am a Junior in Software Engineering at San Jose State Uni
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huytran72&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-| <a href="https://github.com/huytran72"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/huytran72"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huytran72&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Huy Tran's github stats" /></a> | <a href="https://github.com/huytran72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytran72&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://github.com/huytran72/Bank_Account_App/">
