@@ -21,7 +21,7 @@ My name is Huy Tran. I am a Junior in Software Engineering at San Jose State Uni
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huytran72&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-| <a href="https://github.com/huytran72"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huytran72&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Huy Tran's github stats" /></a> | <a href="https://github.com/huytran72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytran72&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/huytran72"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huytran72&show_icons=true&include_all_commits=true&theme=tokyonight&hide=contribs,prs,issues" alt="Huy Tran's github stats" /></a> | <a href="https://github.com/huytran72"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huytran72&layout=compact&theme=tokyonight&hide=contribs,prs,issues" /></a> |
 | ------------- | ------------- |
 
 <a href="https://github.com/huytran72/Bank_Account_App/">
