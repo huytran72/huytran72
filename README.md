@@ -1,5 +1,19 @@
   ### WELCOME TO MY PAGE 👋👋👋
-My name is Huy Tran. I am a Junior in Software Engineering at San Jose State University. I am interested in building the website and would like to be a full-stack developer.<br>
+My name is Huy Tran. I am a Junior in Software Engineering at San Jose State University. I am interested in building the website and would like to be a full-stack developer.<be>
+
+<div align="center">
+
+Hey everyone !!! 
+
+I'm a 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+developer;Artist;Enthusiast;SeniorStudent)]
+
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=huytran72&theme=dark&hide_border=true&fire=00B8BC&background=39%2C00000000%2C00000000&stroke=EB545400&currStreakLabel=FFFFFF&ring=3A3A3A)](https://git.io/streak-stats)
+
+</div>
+
 ## 📫 How to reach me: 
 
 <code><img height="15" alt="Linked-in" src="https://cdn-icons-png.flaticon.com/256/3665/3665172.png">[Linkedin](https://www.linkedin.com/in/huytran93/)</code> <code><img height="15" alt="Github" src="https://img.icons8.com/?size=512&id=63777&format=png">[Github](https://github.com/huytran72/)</code>
