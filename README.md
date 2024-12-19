@@ -9,8 +9,7 @@ I'm a
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=5000&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+developer;Artist;Enthusiast;SeniorStudent)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=huytran72&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>
 
