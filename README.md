@@ -1,5 +1,5 @@
   ### WELCOME TO MY PAGE 👋👋👋
-My name is Huy Tran. I am a Junior in Software Engineering at San Jose State University. I am interested in building the website and would like to be a full-stack developer.<be>
+My name is Huy Tran (Kenny). I am a Junior in Software Engineering at San Jose State University. I am interested in building the website and would like to be a full-stack developer.<be>
 
 <div align="center">
 
