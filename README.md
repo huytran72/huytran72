@@ -1,5 +1,5 @@
   ### WELCOME TO MY PAGE 👋👋👋
-My name is Huy Tran (Kenny). I am a Junior in Software Engineering at San Jose State University. I am interested in building the website and would like to be a full-stack developer.<be>
+My name is Huy Tran (Harry). I am a Junior in Software Engineering at San Jose State University. I am interested in building the website and would like to be a full-stack developer.<be>
 
 <div align="center">
 
@@ -20,11 +20,11 @@ I'm a
 
 **About me**
 
-- 💼 Bachelor in Software Engineering
+- 💼 Bachelor's in Software Engineering
 
 - 📈 Building Website
 
-- ❤️ I love writing TypeScript and building fun experiments on type-level
+- ❤️ I love writing TypeScript and building fun experiments on the type level
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
