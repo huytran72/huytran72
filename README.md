@@ -13,8 +13,6 @@ I'm a
 
 </div>
 
-![Huy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huytran72&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 ## 📫 How to reach me: 
 
 <code><img height="15" alt="Linked-in" src="https://cdn-icons-png.flaticon.com/256/3665/3665172.png">[Linkedin](https://www.linkedin.com/in/huytran93/)</code> <code><img height="15" alt="Github" src="https://img.icons8.com/?size=512&id=63777&format=png">[Github](https://github.com/huytran72/)</code>
