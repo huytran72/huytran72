@@ -46,8 +46,8 @@ I'm a
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Forkify-App&theme=radical" />
 </a>    
-<a href="https://github.com/huytran72/Sportify_App/">
+<a href="https://github.com/huytran72/Portfolio_v2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Sportify_App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Portfolio_v2&theme=radical" />
 </a>    
 
