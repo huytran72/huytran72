@@ -42,9 +42,9 @@ I'm a
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Forkify-App&theme=radical" />
 </a>    
-<a href="https://github.com/huytran72/Bank_Account_App/">
+<a href="https://github.com/huytran72/ZingMusic/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Bank_Account_App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=ZingMusic&theme=radical" />
 </a>    
 <a href="https://github.com/huytran72/Sportify_App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
