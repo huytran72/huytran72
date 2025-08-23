@@ -35,19 +35,20 @@ I'm a
 | ------------- | ------------- |
 
 <a href="https://github.com/huytran72/ZingMusic/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=ZingMusic&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huytran72&repo=ZingMusic&theme=radical&cache_seconds=3600" />
 </a>    
+
 <a href="https://github.com/huytran72/Taskly-App">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Taskly-App&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huytran72&repo=Taskly-App&theme=highcontrast&cache_seconds=3600" />
 </a>  
+
 <a href="https://github.com/huytran72/Forkify-App/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Forkify-App&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huytran72&repo=Forkify-App&theme=cobalt&cache_seconds=3600" />
 </a>    
+
 <a href="https://github.com/huytran72/Portfolio_v2">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Portfolio_v2&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huytran72&repo=Portfolio_v2&theme=dracula&cache_seconds=3600" />
 </a>    
+  
+    
 
