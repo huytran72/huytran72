@@ -40,14 +40,14 @@ I'm a
 </a>    
 <a href="https://github.com/huytran72/Taskly-App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Taskly-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Taskly-App&theme=highcontrast" />
 </a>  
 <a href="https://github.com/huytran72/Forkify-App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Forkify-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Forkify-App&theme=cobalt" />
 </a>    
 <a href="https://github.com/huytran72/Portfolio_v2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Portfolio_v2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huytran72&repo=Portfolio_v2&theme=dracula" />
 </a>    
 
