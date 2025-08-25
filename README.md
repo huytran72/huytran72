@@ -1,5 +1,5 @@
   ### WELCOME TO MY PAGE 👋👋👋
-"Hi, my name is Huy Tran (Harry). I am a Junior Software Engineering student at San Jose State University with a strong passion for web development. I enjoy designing and building modern, user-friendly applications, and my goal is to grow into a full-stack developer capable of delivering impactful products end-to-end."<be>
+"Hi, my name is Huy Tran (Harry). I am a Senior Software Engineering student at San Jose State University with a strong passion for web development. I enjoy designing and building modern, user-friendly applications, and my goal is to grow into a full-stack developer capable of delivering impactful products end-to-end."<be>
 
 <div align="center">
 
